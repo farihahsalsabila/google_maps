@@ -4,7 +4,7 @@
         android:label="flutter_google_map"
         android:icon="@mipmap/ic_launcher">
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyC1r1UEcFIIdKwqYyYHZhSLndLefVc_UZE"/>
+           android:value=" "/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
